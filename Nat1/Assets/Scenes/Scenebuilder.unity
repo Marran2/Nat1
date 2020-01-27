@@ -352,6 +352,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: HexGenerator
       objectReference: {fileID: 0}
+    - target: {fileID: 1440946913452458285, guid: 1d2c823299008944cb12275488b9ce32,
+        type: 3}
+      propertyPath: side
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 1440946913452458290, guid: 1d2c823299008944cb12275488b9ce32,
         type: 3}
       propertyPath: m_LocalPosition.x
